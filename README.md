@@ -1,6 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
-<h1 align="center">Hi 👋, I'm Amit Kumar Ghosh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<img src="BannerImage.gif" height="376px" width="1045px"></img>
+
+<h3 align="center">A budding Full Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit41z&label=Profile%20views&color=0e75b6&style=flat" alt="amit41z" /> </p>
