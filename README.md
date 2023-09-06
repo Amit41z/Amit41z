@@ -1,4 +1,4 @@
-<img src="BannerImage.gif" height="376px" width="1045px"></img>
+<img src="BannerImage.gif" height="350px" width="1045px"></img>
 
 <h3 align="center">A budding Full Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></img>
