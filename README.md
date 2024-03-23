@@ -11,20 +11,20 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://amit41z.github.io/Portfolio-Website/](https://amit41z.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [AmitKumarGhosh_Portfolio](https://amit41z.github.io/Portfolio-Website/)
 
 - 💬 Ask me about **Data Structures and Algorithms, Frontend Development, Core CS Subjects**
 
 - 📫 How to reach me **amitghosh41001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N-YzUt1Z1U4HaN8k2nVqPiBgAi2OsrHD/view?usp=sharing](https://drive.google.com/file/d/1N-YzUt1Z1U4HaN8k2nVqPiBgAi2OsrHD/view?usp=sharing)
+- 📄 Know about my experiences [AmitKumarGhosh_Resume](https://drive.google.com/file/d/1N-YzUt1Z1U4HaN8k2nVqPiBgAi2OsrHD/view?usp=sharing)
 
 - ⚡ Fun fact **Eat, Sleep, Code, Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amitghosh_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitghosh_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/amit-kumar-ghosh-185165199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-kumar-ghosh-185165199" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit kumar ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit kumar ghosh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_amit-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_amit-" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amitghosh41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amitghosh41" height="30" width="40" /></a>
 </p>
